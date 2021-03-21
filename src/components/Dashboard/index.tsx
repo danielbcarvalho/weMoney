@@ -1,5 +1,4 @@
-import React from "react";
-import { Container } from "../Dashboard/styles";
+import { Container } from "./styles";
 import { Summary } from "../Summary";
 
 export function Dashboard() {
