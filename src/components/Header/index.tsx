@@ -1,5 +1,3 @@
-import React, { useState } from "react";
-import Modal from "react-modal";
 import logoImg from "../../assets/LogoWeMoney2.svg";
 import { Container, Content } from "./styles";
 interface HeaderProps {
